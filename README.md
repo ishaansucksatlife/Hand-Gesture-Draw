@@ -191,9 +191,6 @@ We're happy to help with:
 - 🙋 General setup and usage support
 - 🎨 Drawing tips and techniques
 
-## 💻 Made with ❤️
-
-Because creativity should be at your fingertips.
 
 **Follow me online:**  
 🔗 GitHub – [![YourUsername](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
