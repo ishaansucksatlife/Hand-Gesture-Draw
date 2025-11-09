@@ -318,7 +318,7 @@ Yes! Use the color change gesture or keyboard shortcut to cycle through predefin
 ## 💬 Need Help?
 
 Join our **Discord Support Server**:  
-👉 [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
+👉 [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Bkp4AT3UAv)
 
 We're happy to help with:
 
@@ -330,7 +330,7 @@ We're happy to help with:
 **Follow me online:**  
 🔗 GitHub – [![Plasma](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaansucksatlife)
 
-📱 Discord - [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
+📱 Discord - [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Bkp4AT3UAv)
 
 ## 📄 Version
 
