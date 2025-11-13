@@ -332,11 +332,25 @@ We're happy to help with:
 
 📱 Discord - [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Bkp4AT3UAv)
 
-## 📄 Version
+## 📄 License
 
-**Current Version**: 1.0.0  
-**Last Updated**: December 2024  
-**Compatibility**: Windows, macOS, Linux (with webcam)
+**GNU General Public License v3.0**
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for the full text.
+
+### Key Protections:
+- 🚫 **No proprietary use** - Derivative works must be open source
+- 📝 **Attribution required** - Must preserve copyright notices
+- 🛡️ **Patent protection** - Prevents patent claims on this work
+- 🔓 **Source access** - Must provide source code for distributed versions
+
+### What this means:
+- You can use, modify, and share this code
+- You **cannot** use it in closed-source commercial products
+- You **must** keep all copyright notices and license information
+- Any modifications must be released under GPL v3.0
+
+For complete terms and conditions, see the [LICENSE](LICENSE) file.
 
 ## 🤝 Contributing
 
