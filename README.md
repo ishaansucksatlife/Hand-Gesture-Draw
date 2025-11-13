@@ -18,6 +18,7 @@ A powerful, gesture-based drawing application featuring real-time hand tracking,
 - [Included Files](#-included-files)
 - [Troubleshooting](#-troubleshooting)
 - [FAQ](#-faq)
+- [License](#-license)
 - [Need Help?](#-need-help)
 
 ---
@@ -315,23 +316,6 @@ Drawings are automatically saved in the `saved_drawings/` folder with timestamps
 #### 🎨 Can I customize the brush colors?
 Yes! Use the color change gesture or keyboard shortcut to cycle through predefined colors.
 
-## 💬 Need Help?
-
-Join our **Discord Support Server**:  
-👉 [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Bkp4AT3UAv)
-
-We're happy to help with:
-
-- 🐛 Bug reports and technical issues  
-- 💡 Feature suggestions and improvements
-- 🙋 General setup and usage support
-- 🎨 Drawing tips and techniques
-
-**Follow me online:**  
-🔗 GitHub – [![Plasma](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaansucksatlife)
-
-📱 Discord - [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Bkp4AT3UAv)
-
 ## 📄 License
 
 **GNU General Public License v3.0**
@@ -351,6 +335,25 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 - Any modifications must be released under GPL v3.0
 
 For complete terms and conditions, see the [LICENSE](LICENSE) file.
+
+
+## 💬 Need Help?
+
+Join our **Discord Support Server**:  
+👉 [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Bkp4AT3UAv)
+
+We're happy to help with:
+
+- 🐛 Bug reports and technical issues  
+- 💡 Feature suggestions and improvements
+- 🙋 General setup and usage support
+- 🎨 Drawing tips and techniques
+
+**Follow me online:**  
+🔗 GitHub – [![Plasma](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaansucksatlife)
+
+📱 Discord - [![Hand Drawing App](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Bkp4AT3UAv)
+
 
 ## 🤝 Contributing
 
